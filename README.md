@@ -1,1 +1,1 @@
-# Bear Theme for Zed
+# Optima Theme for Zed
