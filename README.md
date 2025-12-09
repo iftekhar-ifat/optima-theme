@@ -1,0 +1,1 @@
+# Bear Theme for Zed
