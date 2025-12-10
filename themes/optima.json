@@ -17,11 +17,11 @@
           "#e696a966"
         ],
         "vim.mode.text": "#181926",
-        "vim.normal.background": "#f4dbd6",
+        "vim.normal.background": "#34d399",
         "vim.helix_normal.background": "#f4dbd6",
         "vim.visual.background": "#b7bdf8",
         "vim.helix_select.background": "#b7bdf8",
-        "vim.insert.background": "#a6da95",
+        "vim.insert.background": "#f4dbd6",
         "vim.visual_line.background": "#b7bdf8",
         "vim.visual_block.background": "#c6a0f6",
         "vim.replace.background": "#ee99a0",
@@ -105,19 +105,19 @@
         "terminal.ansi.black": "#494d64",
         "terminal.ansi.white": "#a5adcb",
         "terminal.ansi.red": "#ed8796",
-        "terminal.ansi.green": "#a6da95",
+        "terminal.ansi.green": "#34d399",
+        "terminal.ansi.cyan": "#2dd4bf",
+        "terminal.ansi.bright_green": "#4ade80",
+        "terminal.ansi.bright_cyan": "#5eead4",
         "terminal.ansi.yellow": "#eed49f",
         "terminal.ansi.blue": "#8aadf4",
         "terminal.ansi.magenta": "#f5bde6",
-        "terminal.ansi.cyan": "#8bd5ca",
         "terminal.ansi.bright_black": "#5b6078",
         "terminal.ansi.bright_white": "#b8c0e0",
         "terminal.ansi.bright_red": "#ec7486",
-        "terminal.ansi.bright_green": "#8ccf7f",
         "terminal.ansi.bright_yellow": "#e1c682",
         "terminal.ansi.bright_blue": "#78a1f6",
         "terminal.ansi.bright_magenta": "#f2a9dd",
-        "terminal.ansi.bright_cyan": "#63cbc0",
         "terminal.ansi.dim_black": "#494d64",
         "terminal.ansi.dim_white": "#a5adcb",
         "terminal.ansi.dim_red": "#ed8796",
@@ -130,9 +130,9 @@
         "conflict": "#f5a97f",
         "conflict.border": "#f5a97f",
         "conflict.background": "#f5a97f26",
-        "created": "#a6da95",
-        "created.border": "#a6da95",
-        "created.background": "#a6da9526",
+        "created": "#34d399",
+        "created.border": "#34d399",
+        "created.background": "#34d39926",
         "deleted": "#ed8796",
         "deleted.border": "#ed8796",
         "deleted.background": "#ed879626",
@@ -154,8 +154,8 @@
         "renamed": "#7dc4e4",
         "renamed.border": "#7dc4e4",
         "renamed.background": "#7dc4e426",
-        "info": "#8bd5ca",
-        "info.border": "#8bd5ca",
+        "info": "#2dd4bf",
+        "info.border": "#2dd4bf",
         "info.background": "#1a2b31",
         "warning": "#eed49f",
         "warning.border": "#eed49f",
@@ -163,17 +163,17 @@
         "error": "#ed8796",
         "error.border": "#ed8796",
         "error.background": "#391e20",
-        "success": "#a6da95",
-        "success.border": "#a6da95",
-        "success.background": "#1f2e21",
+        "success": "#34d399",
+        "success.border": "#34d399",
+        "success.background": "#34d3991a",
         "unreachable": "#ed8796",
         "unreachable.border": "#ed8796",
         "unreachable.background": "#ed87961f",
         "players": [
           {
-            "cursor": "#f4dbd6",
-            "selection": "#939ab740",
-            "background": "#f4dbd6"
+            "cursor": "#34d399",
+            "selection": "#34d39940",
+            "background": "#34d399"
           },
           {
             "cursor": "#e4e4e7",
@@ -181,37 +181,37 @@
             "background": "#e4e4e7"
           },
           {
-            "cursor": "#bac1f7",
-            "selection": "#bac1f740",
-            "background": "#bac1f7"
+            "cursor": "#60a5fa",
+            "selection": "#60a5fa40",
+            "background": "#60a5fa"
           },
           {
-            "cursor": "#8cc7e7",
-            "selection": "#8cc7e740",
-            "background": "#8cc7e7"
+            "cursor": "#c084fc",
+            "selection": "#c084fc40",
+            "background": "#c084fc"
           },
           {
-            "cursor": "#add8a8",
-            "selection": "#add8a840",
-            "background": "#add8a8"
+            "cursor": "#facc15",
+            "selection": "#facc1540",
+            "background": "#facc15"
           },
           {
-            "cursor": "#e6d4b0",
-            "selection": "#e6d4b040",
-            "background": "#e6d4b0"
+            "cursor": "#fb923c",
+            "selection": "#fb923c40",
+            "background": "#fb923c"
           },
           {
-            "cursor": "#ecb197",
-            "selection": "#ecb19740",
-            "background": "#ecb197"
+            "cursor": "#f87171",
+            "selection": "#f8717140",
+            "background": "#f87171"
           },
           {
-            "cursor": "#e696a9",
-            "selection": "#e696a940",
-            "background": "#e696a9"
+            "cursor": "#e879f9",
+            "selection": "#e879f940",
+            "background": "#e879f9"
           }
         ],
-        "version_control.added": "#a6da95",
+        "version_control.added": "#34d399",
         "version_control.deleted": "#ed8796",
         "version_control.modified": "#eed49f",
         "version_control.renamed": "#7dc4e4",
