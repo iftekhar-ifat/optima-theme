@@ -1,4 +1,4 @@
-# Optima Theme
+# Optima
 
 A dark minimal (opinionated) theme for [Zed](https://zed.dev) editor. Clean colors with a focus on readability and editor aesthetics.
 

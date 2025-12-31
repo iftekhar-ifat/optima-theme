@@ -1,5 +1,5 @@
-id = "optima-theme"
-name = "Optima Theme"
+id = "optima"
+name = "Optima"
 version = "0.0.1"
 schema_version = 1
 authors = ["Iftekhar"]
