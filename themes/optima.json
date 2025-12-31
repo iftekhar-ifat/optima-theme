@@ -1,9 +1,9 @@
 {
   "name": "Optima",
-  "author": "Iftekhar Ahmed <iftekharifat007@gmail.com>",
+  "author": "Iftekhar <iftekharifat007@gmail.com>",
   "themes": [
     {
-      "name": "Optima Vibrant",
+      "name": "Optima Dark",
       "appearance": "dark",
       "style": {
         "accents": [
