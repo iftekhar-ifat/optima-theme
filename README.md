@@ -4,11 +4,7 @@ A dark minimal (opinionated) theme for [Zed](https://zed.dev) editor. Clean colo
 
 ## Screenshots
 
-### Example 1
-
 ![Optima Theme Example 1](assets/example-1.png)
-
-### Example 2
 
 ![Optima Theme Example 2](assets/example-2.png)
 
